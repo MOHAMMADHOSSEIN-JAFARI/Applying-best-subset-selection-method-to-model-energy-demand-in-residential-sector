@@ -9,7 +9,7 @@ the optimal number of regressors by comparing different criteria including R2, R
 Mallows’s C
 p, AIC, and BIC. After that, an ordinary least squares regression model
 is implemented on selected independent variables in order to investigate how they can
-explain household energy consumption in Italy. The research suggest that an increase
+explain household energy consumption in Italy. The research suggests that an increase
 in resident population density in Italy would in fact lead to a decrease in overall
 energy consumption. Thus, in order to design more a comprehensive energy plan, and
 to improve the accuracy of energy consumption forecasts, resident population should
